@@ -8,3 +8,4 @@ Writing dummy placeholder
 Recording activity note
 Logging generic sample
 Dataset filler continues
+Writing base entry
