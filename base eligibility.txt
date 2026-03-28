@@ -39,3 +39,4 @@ Writing simple entry
 Activity simulation continues
 Dataset entry continues
 Writing structured log
+Recording base activity
