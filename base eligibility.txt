@@ -82,3 +82,4 @@ Logging neutral entry
 Writing dataset placeholder
 Activity simulation continues
 Recording simple log
+Logging dataset entry
