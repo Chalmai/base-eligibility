@@ -10,3 +10,4 @@ Logging generic sample
 Dataset filler continues
 Writing base entry
 Recording simple dataset
+Logging structured content
